@@ -1,0 +1,6 @@
+C:\Users\79963\source\repos\factionfile\factionfile\bin\Debug\factionfile.dll
+C:\Users\79963\source\repos\factionfile\factionfile\bin\Debug\factionfile.pdb
+C:\Users\79963\source\repos\factionfile\factionfile\obj\Debug\factionfile.csproj.AssemblyReference.cache
+C:\Users\79963\source\repos\factionfile\factionfile\obj\Debug\factionfile.csproj.CoreCompileInputs.cache
+C:\Users\79963\source\repos\factionfile\factionfile\obj\Debug\factionfile.dll
+C:\Users\79963\source\repos\factionfile\factionfile\obj\Debug\factionfile.pdb
